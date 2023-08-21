@@ -1,0 +1,68 @@
+body {
+  background-color: #FFEBCD;
+}
+
+ul {
+  background-color: lightblue;
+  color: black;
+  margin-left: 20px;
+}
+
+a {
+  color: darkred;
+}
+
+h1 {
+  background-color: #F4CACA;
+  color: #DC143C;
+  text-align: center;
+}
+
+.first {
+  font-family: "Arial", monospace;
+  font-size: 20px;
+  color: rgb(106, 90, 205);
+  background-color: #E8FF50;
+  text-align: center;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+.second {
+  font-family: "Arial", monospace;
+  font-size: 20px;
+  color: rgb(106, 90, 205);
+  background-color: #E8FF50;
+  text-align: center;
+}
+
+.triangle {
+  width: 400px;
+  height: 200px;
+}
+
+.complex {
+  width: 300px;
+  height: 200px;
+}
+
+.p1 {
+  background-color: White;
+  color: hsl(0, 100%, 25%);
+  text-align: justify;
+}
+
+.p2 {
+  background-color: White;
+  color: hsl(0, 100%, 25%);
+  text-align: justify;
+}
+
+.p3 {
+  background-color: rgba(255, 99, 71, 0.2);
+  color: hsl(0, 100%, 25%);
+  text-align: justify;
+}

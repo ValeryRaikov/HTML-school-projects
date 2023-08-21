@@ -1,0 +1,60 @@
+body {
+  background-color: #FFEBCD;
+  font-family: "Calibri", monospace;
+  font-size: 20px;
+}
+
+ul {
+  background-color: lightblue;
+  color: black;
+  margin-left: 20px;
+}
+
+a {
+  color: darkred;
+}
+
+h1 {
+  background-color: #F4CACA;
+  color: #DC143C;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.pOne {
+  font-family: "Times New Roman", monospace;
+  font-size: 25px;
+  font-style: italic;
+  background-color: White;
+  color: black;
+  text-align: justify;
+}
+.theory {
+  font-family: "Times New Roman", monospace;
+  font-size: 25px;
+  font-style: italic;
+  color: rgb(106, 90, 205);
+  background-color: #E8FF50;
+  text-align: center;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+.triangle {
+  width: 400px;
+  height: 200px;
+}
+
+.complex {
+  width: 300px;
+  height: 200px;
+}
+
+.pTwo {
+  background-color: White;
+  color: black;
+  text-align: justify;
+}

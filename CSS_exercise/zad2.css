@@ -1,0 +1,60 @@
+body {
+  background-color: #FFEBCD;
+}
+
+ul {
+  background-color: lightblue;
+  color: black;
+  margin-left: 20px;
+}
+
+a {
+  color: darkred;
+}
+
+h1 {
+  background-color: #F4CACA;
+  color: darkred;
+}
+
+.first {
+  font-family: "Arial", monospace;
+  font-size: 20px;
+  color: darkblue;
+  background-color: #E8FF50;
+  
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+.second {
+  font-family: "Arial", monospace;
+  font-size: 20px;
+  color: darkgreen;
+  background-color: #E8FF50;
+}
+
+.triangle {
+  width: 400px;
+  height: 200px;
+}
+
+.complex {
+  width: 300px;
+  height: 200px;
+}
+
+.p1 {
+  background-color:White;
+}
+
+.p2 {
+  background-color:White;
+}
+
+.p3 {
+  background-color:hsl(180,40%,50%);
+}
